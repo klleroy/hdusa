@@ -1,38 +1,72 @@
-.App {
-  text-align: center;
+.jumbotron {
+	background: url('/images/bg.jpg') no-repeat center center;
+	background-size: cover;
+	min-height: 65vh;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1,
+h3 {
+	font-family: 'Noto Sans', sans-serif;
+	font-weight: 900;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+p {
+	font-family: 'Raleway', sans-serif;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.first {
+	font-weight: 900;
 }
 
-.App-link {
-  color: #61dafb;
+/* Navbar */
+.navbarText {
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	color: #fff;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Footer */
+main > .container {
+	padding: 60px 15px 0;
+}
+
+.footer {
+	background-color: #ff4949;
+	color: #fff;
+}
+
+.footer > .container {
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+code {
+	font-size: 80%;
+}
+
+.ijruLogo {
+	width: 75px;
+	height: 75px;
+}
+
+.amjrfLogo {
+	width: 75px;
+	height: 75px;
+}
+
+/* Coaches */
+img {
+	float: left;
+	margin: 5px 20px 0 0;
+	height: 200px;
+	width: 142px;
+}
+
+.coaches {
+	padding-bottom: 20px;
+}
+
+/* Contact */
+.inner {
+	padding-bottom: 20px;
 }

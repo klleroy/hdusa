@@ -16,7 +16,7 @@ const About = () => {
 					fostering local, regional, national and international jump rope
 					competitions, workshops and performances.
 				</p>
-				<h3 className='font-weight-bold'>Team Organization</h3>
+				<h3>Team Organization</h3>
 				<p>
 					We have two levels of participation on our team, <b>"Junior Team"</b>{' '}
 					and <b>"Elite Team"</b>.
