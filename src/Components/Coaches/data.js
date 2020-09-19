@@ -15,6 +15,7 @@ export default {
 			altText: 'carla',
 			bio:
 				'Carla has been involved with the sport of jump rope, and Hot Dog USA, for over 30 years. She started competing at the age of 5 and continued for 18 years. While competing, she earned 18 national trophies, 2 world championships, and 2 world silver medals. Carla is grateful for the travel opportunities this sport has offered her. Her travels took her all around the U.S., as well as to Europe, Asia, and Australia. Her favorites include Sydney, Australia; Seoul, Korea; and Nome, Alaska. Coach Carla is grateful for her time as a competitive athlete but loves coaching just as much. She started mentoring younger jumpers as early as the age of 12 and transitioned to full-time coaching in the fall of 2004. She also spent many years training judges and judging in regional and national competitions. Carla graduated from Central Washington University with a degree in Elementary Education and a minor in dance in 2004. After graduating, she spent seven years as a teacher at Margaret Mead Elementary School before becoming a stay-at-home mom to daughters Emma (9) and Olivia (6).',
+			email: `carla@hotdogusa.org`,
 		},
 		{
 			image: Christi,

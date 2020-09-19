@@ -14,6 +14,7 @@ const Coaches = () => {
 						<div className='col-4' key={coach.image}>
 							<img src={coach.image} alt={coach.altText} />
 							<p>{coach.bio}</p>
+							<a href='mailto:carla@hotdogusa.org'>{coach.email}</a>
 						</div>
 					))}
 				</div>

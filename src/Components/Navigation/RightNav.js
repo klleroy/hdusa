@@ -42,9 +42,9 @@ const RightNav = ({ open }) => {
 			<li>
 				<Link to='/coaches'>Coaches</Link>
 			</li>
-			<li>
+			{/* <li>
 				<Link to='/contact-us'>Contact Us</Link>
-			</li>
+			</li> */}
 		</Ul>
 	);
 };
